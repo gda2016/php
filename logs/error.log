@@ -1,0 +1,2 @@
+[Sat Feb 04 20:27:03.128005 2017] [:error] [pid 16730] [client 127.0.0.1:50803] PHP Notice:  Undefined variable: COLOR in /web/php/w3php/syntax.php on line 34
+[Sat Feb 04 20:27:03.128082 2017] [:error] [pid 16730] [client 127.0.0.1:50803] PHP Notice:  Undefined variable: coLOR in /web/php/w3php/syntax.php on line 35
